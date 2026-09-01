@@ -1,6 +1,10 @@
-# FAIR
+# FAIR @ ECCV'26
 
-## ECCV'26 Paper: [FAIR: Feature-Augmented Implicit Regularization for AI-generated Fake Image Detection](https://arxiv.org/abs/2607.22087)
+## [FAIR: Feature-Augmented Implicit Regularization for AI-generated Fake Image Detection](https://arxiv.org/abs/2607.22087)
+
+https://www.youtube.com/watch?v=7tMmBUirx7k
+
+https://eccv.ecva.net/virtual/2026/poster/5812
 
 SCS Extraction Code: https://github.com/RedwanPlague/scssim
 
